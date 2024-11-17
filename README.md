@@ -5,7 +5,7 @@
 - 😉 Técnica em Eletroeletrônica e em Tecnologia da Informação;
 - 💬 Disposta a aprender cada vez mais!
 - 🏠 Tenho 21 anos e sou de Campinas - SP!
-- 📫 Acesse o meu <a href="https://www.linkedin.com/in/irisgrodrigues/">Linkedin! </a>
+- 📫 Acesse o meu <a href="https://www.linkedin.com/in/irisgrillo/">Linkedin! </a>
 
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="30" height="30" alt="GitHub Icon" />
