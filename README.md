@@ -11,8 +11,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="30" height="30" alt="GitHub Icon" />
 </div>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=irisgrillo)](https://github.com/irisgrillo/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=irisgrillo&layout=donut)](https://github.com/irisgrillo/github-readme-stats)
+
 
 <div>
 
